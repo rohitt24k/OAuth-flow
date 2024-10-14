@@ -1,0 +1,10 @@
+{
+  "name": "oauth-lib",
+  "version": "1.0.0",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jwt-decode": "^4.0.0"
+  }
+}
